@@ -1,6 +1,8 @@
 # • Athom Studios | Recrutamento
 Desenvolver uma aplicação Flutter para Android e iOS
 
+[[English](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.md) | [Português](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.pt.md)]
+
 ## Instruções
 - Faça um fork desse projeto para a sua conta pessoal do GitHub.
 - Siga as especificações abaixo.
