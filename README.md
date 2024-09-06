@@ -1,7 +1,24 @@
 # • Athom Studios | Recruitment
-Develop a Flutter application for Android and iOS
-
 [[English](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.md) | [Português](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.pt.md)]
+
+_Develop a Flutter application for Android and iOS_
+
+## Welcome
+
+Thank you for taking part in the Athom challenge! We're delighted that you've taken the first step towards being part of an exceptional moment. You have to create an application for reading and creating QRCodes. In order to have a minimally defined layout, we've attached an inspirational link below that can help you develop this app:
+
+- [Design Inspiration](https://dribbble.com/shots/6140065-QR-Code-scanner-microinteraction)
+
+Think of the challenge as an opportunity to show off all your knowledge. And take your time, you have two weeks to deliver! Your assessment will be based on the following topics:
+
+- Architecture
+- API consumption
+- GIT
+- Layouts
+- Navigation flow.
+- There are no prerequisites, so feel free to use any language and use or not use libraries.
+
+We know that testing is not a topic that everyone is familiar with, so we accept challenges from all profiles and different levels of technical knowledge. But we care about the quality, health and evolution of the product and that's why we're big believers in automated testing.
 
 ## Instructions
 - Fork this repository to your personal GitHub account.
