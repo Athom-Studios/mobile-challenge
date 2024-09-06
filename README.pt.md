@@ -1,5 +1,8 @@
 # • Athom Studios | Recrutamento
+[[English](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.md) | [Português](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.pt.md)]
+
 _Desenvolver uma aplicação Flutter para Android e iOS_
+
 ## Bem vindo(a)
 
 Obrigado por participar do desafio da Athom! Estamos muito contentes pelo seu primeiro passo para fazer parte de um time excepcional. Você deverá criar um aplicativo para leitura e criação de QRCodes. Para termos um layout minimamente definido, anexamos abaixo um link de inspiração que podem te ajudar a desenvolver esse app:
@@ -16,8 +19,6 @@ Pense no desafio como uma oportunidade de mostrar todo o seu conhecimento. E fa�
 - Não existe nenhum pré-requisito, portanto sinta-se a vontande para utilizar qualquer linguagem e usar ou não usar bibliotecas.
 
 Sabemos que testes não é um tópico que todos dominam ou tem conhecimento, por isso aceitamos desafios de todos os perfis e diferentes níveis de conhecimento técnico. Mas nos preocupamos com a qualidade, saúde e evolução do produto e por isso acreditamos bastante em testes automatizados.
-
-[[English](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.md) | [Português](https://github.com/Athom-Studios/mobile-challenge/blob/main/README.pt.md)]
 
 ## Instruções
 - Faça um fork desse projeto para a sua conta pessoal do GitHub.
